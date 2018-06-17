@@ -99,6 +99,4 @@ Only one file is required for git-lfs, the `git-lfs` binary. i386 and x86_64 ver
 
 Alternatively, you can use go to
 
-1. `go get github.com/github/git-lfs`
-2. `$GOPATH/bin/`
-3. Edit/checkout `$GOPATH/src/github.com/github/git-lfs` and run `go build github.com/github/git-lfs` if needed
+1. `
